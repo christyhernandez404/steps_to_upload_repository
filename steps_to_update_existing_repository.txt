@@ -1,0 +1,7 @@
+Steps
+Open the command prompt
+cd into your project folder
+Type "git add ." and press Enter
+Type "git status" and press Enter (this will allow you to see and confirm the changes that have occurred and will be pushed if you continue)
+Type "git commit -m "insert description of changes here" and press Enter
+Type "git push" and press Enter
