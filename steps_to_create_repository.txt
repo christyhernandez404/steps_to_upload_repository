@@ -24,4 +24,4 @@ Go back to your GitHub account and click refresh
 Validate that your repository( folders and files) that you meant to upload appears in your GitHub account. If it does not appear in your GitHub account,
 
 Error Handling
-If you receive errors during this process or do not see the repository you meant to upload in Github, consult with teacher or person who wrote these instructions. 
+If you receive errors during this process or do not see the repository you meant to upload in Github, consult with teacher.
