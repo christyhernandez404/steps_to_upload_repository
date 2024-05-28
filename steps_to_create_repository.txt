@@ -1,27 +1,27 @@
 Assumptions
-You must have Git installed on your computer
-You must be logged into GitHub on your computer
-You must connect your Git and GitHub accounts on your computer
+You must have Git installed on your computer.
+You must be logged into GitHub on your computer.
+You must connect your Git and GitHub accounts on your computer.
 
-Steps
+Steps/Instructions
 Go to GitHub.com
-Go to your Repositories
-Select the green New button
+Go to your Repositories.
+Select the New(it's green) button.
 Name the repository. The name should be descriptive to what you are uploading.
-Select if the repository should be Public or Private(for classes make it public)
-Select Create repository
+Select if the repository should be Public or Private(for classes make it public).
+Select Create repository.
 
 Now that a repository is created in GitHub...
 
 Open your command prompt
-cd into your project folder
-Go back to your GitHub page and copy the first three lines of code that contain ( line 1:echo...,line 2: git init, line 3: git add readme.md)
-Paste the code into your command prompt and click enter
-Paste " git add ." and click enter (this will add all files from your project)
+cd into your project folder.
+Go back to your GitHub page and under the section "create a new repository on the command line" copy the first three lines of code that contain ( line 1:echo...,line 2: git init, line 3: git add readme.md).
+Paste the copied code into your command prompt and click Enter.
+Type "git add ." and click enter (this will add all files from your project).
 Go back to your GitHub page and copy the last four lines of code that contain(line 1: git commit..., line 2: git branch..., line 3: git remote..., line 4: git push...)
-Paste the code into your command prompt and click enter
-Go back to your GitHub account and click refresh
-Validate that your repository( folders and files) that you meant to upload appears in your GitHub account. If it does not appear in your GitHub account,
+Paste the code into your command prompt and click enter.
+Go back to your GitHub account and refresh the webpage.
+Validate that your repository( folders and files) that you meant to upload appears in your GitHub account. If it does not appear in your GitHub account, consult with your teacher.
 
 Error Handling
 If you receive errors during this process or do not see the repository you meant to upload in Github, consult with teacher.
